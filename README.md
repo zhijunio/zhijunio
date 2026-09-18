@@ -23,6 +23,7 @@
 ### ✍️ Recent Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot 4 接入 gRPC](https://blog.zhijun.io/posts/spring-boot-grpc)
 - [使用 Datasource Micrometer 观测 Spring Boot 的 JDBC](https://blog.zhijun.io/posts/spring-boot-jdbc-datasource-micrometer)
 - [使用 Logback + OpenTelemetry &lpar;OTLP&rpar; 发送 Spring Boot 应用程序日志](https://blog.zhijun.io/posts/spring-boot-logback-otlp-logs)
 - [博客站点更新日志（2026-05-28）](https://blog.zhijun.io/posts/blog-changelog-2026-05-28)
@@ -30,7 +31,6 @@
 - [Obsidian + Git 搭建第二大脑：PARA 与书签管理](https://blog.zhijun.io/posts/20260517-weekly)
 - [mattpocock/skills：它在管的不是提示词，而是做事顺序](https://blog.zhijun.io/posts/mattpocock-skills-guide)
 - [AI Agent 工程化实战：Superpowers、GSD 与 Agent Skills](https://blog.zhijun.io/posts/20260510-weekly)
-- [Superpowers：为什么它总想先拦住你](https://blog.zhijun.io/posts/superpowers-discipline-ai-coding)
 <!-- BLOG-POST-LIST:END -->
 
 > ⭐️ 我喜欢构建有用的系统，并乐于分享我在此过程中学到的东西。
