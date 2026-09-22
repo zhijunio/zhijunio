@@ -23,6 +23,7 @@
 ### ✍️ Recent Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring AI 与 TypeSafe Jev：用结构化判断做模型路由](https://blog.zhijun.io/posts/spring-ai-typesafe-jev-model-router)
 - [Spring Boot 用 SSL Bundle 做 HTTPS 和 mTLS](https://blog.zhijun.io/posts/spring-boot-ssl-bundle-mtls)
 - [Spring Boot 4 接入 gRPC](https://blog.zhijun.io/posts/spring-boot-grpc)
 - [使用 Datasource Micrometer 观测 Spring Boot 的 JDBC](https://blog.zhijun.io/posts/spring-boot-jdbc-datasource-micrometer)
@@ -30,7 +31,6 @@
 - [博客站点更新日志（2026-05-28）](https://blog.zhijun.io/posts/blog-changelog-2026-05-28)
 - [agentic-expense-manager：Spring Boot Agentic 开发脚手架](https://blog.zhijun.io/posts/agentic-expense-manager-learning-guide)
 - [Obsidian + Git 搭建第二大脑：PARA 与书签管理](https://blog.zhijun.io/posts/20260517-weekly)
-- [mattpocock/skills：它在管的不是提示词，而是做事顺序](https://blog.zhijun.io/posts/mattpocock-skills-guide)
 <!-- BLOG-POST-LIST:END -->
 
 > ⭐️ 我喜欢构建有用的系统，并乐于分享我在此过程中学到的东西。
