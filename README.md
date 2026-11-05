@@ -23,14 +23,14 @@
 ### ✍️ Recent Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [mise 使用指南：全局与项目级工具版本](https://blog.zhijun.io/posts/mise-guide)
+- [macOS 开发环境从零配置：Homebrew + mise + dotfiles](https://blog.zhijun.io/posts/mac-development-environment-setup)
+- [macOS 上用 Colima 跑 Docker：安装、日常用法与 DNS 踩坑](https://blog.zhijun.io/posts/colima-macos-docker)
 - [从零实现 Spring Security 7 MFA：一步步接入第二因子](https://blog.zhijun.io/posts/spring-security-7-mfa-tutorial)
 - [ThingsBoard OAuth2 登录源码解析：新手从授权码到平台 JWT](https://blog.zhijun.io/posts/thingsboard-oauth2-login-source)
 - [Spring Security 实现社交登录：GitHub、Google、Facebook 与 Apple](https://blog.zhijun.io/posts/spring-security-social-login)
 - [ThingsBoard MFA 实现解析：从密码认证到二次验证](https://blog.zhijun.io/posts/thingsboard-mfa-implementation)
 - [ThingsBoard 认证与授权机制：从 JWT 到资源权限](https://blog.zhijun.io/posts/thingsboard-authentication-authorization)
-- [Spring Security 实现 GitHub Device Flow 登录：原理与实战](https://blog.zhijun.io/posts/spring-security-github-device-flow-login)
-- [Spring Security 接入微信扫码登录：网站应用实战](https://blog.zhijun.io/posts/spring-security-wechat-qr-login)
-- [从原理到代码：使用 Spring Security 实现自建扫码登录](https://blog.zhijun.io/posts/spring-security-qr-login)
 <!-- BLOG-POST-LIST:END -->
 
 > ⭐️ 我喜欢构建有用的系统，并乐于分享我在此过程中学到的东西。
